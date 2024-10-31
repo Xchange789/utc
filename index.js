@@ -38,9 +38,9 @@ window.addEventListener("load", function () {
   var buildUrl = "Build";
   var loaderUrl = buildUrl + "/Mini App.loader.js";
   var config = {
-    dataUrl: buildUrl + "/Mini App.data",
-    frameworkUrl: buildUrl + "/Mini App.framework.js",
-    codeUrl: buildUrl + "/Mini App.wasm",
+    dataUrl: buildUrl + "/Mini App.data.unityweb",
+    frameworkUrl: buildUrl + "/Mini App.framework.js.unityweb",
+    codeUrl: buildUrl + "/Mini App.wasm.unityweb",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "C# TonConnect",
