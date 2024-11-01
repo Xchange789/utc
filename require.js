@@ -1,4 +1,4 @@
-import {$createRequestId, $debug, $postEvent, $targetOrigin, $version, CancelablePromise, ERR_ABORTED, shareURL} from "./@telegram-apps/sdk";
+import {$createRequestId, $debug, $postEvent, $targetOrigin, $version, CancelablePromise, ERR_ABORTED, shareURL} from "./@telegram-apps/sdk/dist/index.js";
 
 (function () {
   import{
