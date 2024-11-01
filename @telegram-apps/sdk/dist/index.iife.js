@@ -1,4 +1,5 @@
-if(this.telegramApps == undefined) this.telegramApps = {}
+//if(this.telegramApps == undefined) 
+this.telegramApps = {}
 this.telegramApps.sdk = function(o) {
   "use strict";
   let St = class ui extends Error {
