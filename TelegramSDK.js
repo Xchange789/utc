@@ -14,5 +14,5 @@
         (eventType, eventData) => {
             console.log(eventType);
             console.log(eventData);
-        }; 
+        };
 })
