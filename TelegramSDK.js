@@ -1,4 +1,4 @@
-(function (window){
+(function (){
     // receive event
     window.TelegramGameProxy.receiveEvent =
         (eventType, eventData) => {
@@ -15,4 +15,4 @@
             console.log(eventType);
             console.log(eventData);
         };
-});
+})();
