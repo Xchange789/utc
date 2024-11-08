@@ -15,4 +15,4 @@
             console.log(eventType);
             console.log(eventData);
         };
-})
+});
